@@ -5,12 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Ubuntu&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Rubik:ital@0;1&display=swap" rel="stylesheet">
        
     <title>Word Book</title>
 </head>
 <body>
-    
+      <center><h1 style="font-size:30px;">Word Book</h1> </center>
      <div class="container">
 
          <div class="search">
@@ -26,15 +29,55 @@
 
 
          </div>
-         <p id="word"></p>
-         <p id="meaning"></p>
-         <p id="example"></p>
-         <p id="synonyms"></p>
-          <p id="antonyms"></p>
-         <script type="text/javascript" src="script.js"></script>
+    </div>
+
+    <div class="result">
 
 
-        </div>
+            <h2>Word:</h2>
+            <div id="result_">
+              <p id="word">dictionary</p>
+
+
+            </div>
+            <h2>Meaning:</h2>
+            <div id="result_">
+
+              <p id="meaning">a book or electronic resource that lists the words of a language (typically in alphabetical order) and gives their meaning, or gives the equivalent words in a different language, often also providing information about pronunciation, origin, and usage.
+
+              </p>
+
+            </div>
+            <h2>Example:</h2>
+      
+            <div id="result_">
+
+              <p id="example">I'll look up 'love' in the dictionary</p>
+
+            </div>  
+            
+            
+            <h2>Synonyms:</h2>
+            <div id="result_">
+
+              <p id="synonyms">lexicon, wordbook, glossary, vocabulary list, vocabulary, word list, wordfinder</p>
+
+            </div>
+
+            <h2>Antonyms:</h2>
+            <div id="result_">
+
+              <p id="antonyms">None</p>
+
+            </div>
+          
+          
+    </div>
+
+          <script type="text/javascript" src="script.js"></script>
+
+
+        
 
 </body>
 </html>
