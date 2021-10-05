@@ -7,6 +7,7 @@ Word Book is a google chrome extension that lets you search for meanings, synony
 Technologies:
 
 ![image](https://user-images.githubusercontent.com/58108474/135975492-220809c6-f5af-49fc-991a-403963b018dc.png)   ![image](https://user-images.githubusercontent.com/58108474/135975844-ea77d62d-5d0b-45c3-bf71-947ad2d9bce0.png)
+<img src="https://img.shields.io/badge/Version-0.1-%233DB2FF" />
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
