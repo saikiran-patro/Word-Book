@@ -13,9 +13,10 @@ body{
 
   display:flex;
   flex-direction: column;
+  justify-content: center;
   
   align-items: center;
-  width: 500px;
+
   height: 80px;
   
   padding:30px;
@@ -54,8 +55,8 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    border-radius: 15px;
-    width:100%;
+    border-radius: 30px;
+    width:500px;
     height: 60%;
    background-color:rgb(216, 227, 231);
 }
