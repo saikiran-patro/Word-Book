@@ -5,6 +5,7 @@
 Word Book is a google chrome extension that lets you search for meanings, synonyms, antonyms with examples of different words. It's pretty convenient to use and learn words everyday to improve your vocabulary.
 
 Technologies:
+<br>
 <img src="https://img.shields.io/badge/Platform-Extension-%23C2FFD9" />
 <img src="https://img.shields.io/badge/Language%20-Javascript-%23FFE459" />
 <img src="https://img.shields.io/badge/Editor-Vs%20code-%23867AE9" />
